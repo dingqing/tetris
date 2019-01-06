@@ -18,10 +18,12 @@
 - 组件（component）
     ```
     var SomeComponent = React.createClass({
+        // 验证属性
         PropTypes:{
-        },//验证属性
+        },
+        // 状态
         getInitialState: function(){
-            return {liked: false}; //状态
+            return {liked: false};
         },
         // ajax
         componentDidMount: function(){
@@ -55,9 +57,12 @@
                 return
                     <div onclick={this.handleClick}>
                     <input type="text" ref="myTextInput"/>
-                    React.Children.map(this.props.children, function(child){
-                        return <li>{child}</li>;
-                    })//子节点
+                    // 子节点
+                    {
+                        React.Children.map(this.props.children, function(child){
+                            return <li>{child}</li>;
+                        })
+                    }
                     </div>
                 ;
             }
