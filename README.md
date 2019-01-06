@@ -13,7 +13,7 @@ React、Redux实现俄罗斯方块小游戏。
     - 只是DOM抽象层
     - 没有涉及代码结构、组件之间的通信
 - Redux
-    - Web应用解决方案，<a href="https://github.com/dingqing/tetris/Redux-learning.md" target="_blank">Redux学习笔记</a>
+    - Web应用解决方案，<a href="https://github.com/dingqing/tetris/blob/master/Redux-learning.md" target="_blank">Redux学习笔记</a>
 
 ## 系统介绍
 
