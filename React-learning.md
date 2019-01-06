@@ -86,7 +86,7 @@
         - updating：正在被重新渲染，
         - unmounting：已移出真实DOM
     - 处理函数：
-        - 针对三种状态有五种，Ajax请求可以在_DidMount方法中实现
-        - _WillReceiveProps：收到新的参数时，
-        - should_Update：判断是否重新渲染时
+        - 针对三种状态，每个状态都有will和did函数，共计五种。如componentWillMount()
+        - componentWillReceiveProps(object nextProps)：已加载组件收到新的参数时调用，
+        - shouldComponentUpdate(object nextProps, object nextState)：组件判断是否重新渲染时调用
 - 表单
