@@ -5,9 +5,9 @@
 - 安装
     - 引入三个库
     - 或者
-    ```
-    npm install -g create-react-app
-    ```
+        ```
+        npm install -g create-react-app
+        ```
 - HTML模板
     - `type="text/babel"`支持JSX语法
     - babel将js文件进行语法转换
