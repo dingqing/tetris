@@ -24,7 +24,7 @@
 src
     ├─ actions          [被/control/todo里面的文件调用]
     ├─ componets        [组件]
-        ├─ ...          [图案和标题、屏幕、得分、“下一个”、音效、暂停...]
+        ├─ ...          [图案和标题、屏幕、屏幕右边：得分、“下一个”、音效、暂停、按钮、帮助]
     ├─ containers       [容器]
     ├─ controls         []
     ├─ reducers         [计算新的state]
