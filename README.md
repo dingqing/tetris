@@ -1,5 +1,5 @@
 # tetris
-React、Redux实现俄罗斯方块小游戏。
+使用React、Redux实现俄罗斯方块小游戏。
 
 ## 准备
 ### 目标
