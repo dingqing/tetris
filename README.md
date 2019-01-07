@@ -27,7 +27,7 @@ src
         ├─ ...          [图案和标题、屏幕、得分、“下一个”、音效、暂停...]
     ├─ containers       [容器]
     ├─ controls         []
-    ├─ reducers         []
+    ├─ reducers         [计算新的state]
     ├─ resource         []
     ├─ store            []
     ├─ unit             []
