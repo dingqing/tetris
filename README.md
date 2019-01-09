@@ -1,4 +1,4 @@
-# tetris
+# tetris-react
 使用React、Redux实现俄罗斯方块小游戏。
 
 ## 1.准备
