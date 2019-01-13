@@ -5,24 +5,17 @@ import propTypes from 'prop-types';
 
 import style from './index.less';
 
-// 矩阵：屏幕里面（组成俄罗斯方块的）每一个最小的小块
 import Matrix from '../components/matrix';
-// 屏幕上左右的方块图案和标题
 import Decorate from '../components/decorate';
 
-// 得分、“下一个”、音效、暂停
 import Number from '../components/number';
 import Next from '../components/next';
 import Music from '../components/music';
 import Pause from '../components/pause';
 
-// 屏幕右边分数显示块
 import Point from '../components/point';
-// 游戏开始时显示的恐龙
 import Logo from '../components/logo';
-// 按钮
 import Keyboard from '../components/keyboard';
-// 帮助
 import Guide from '../components/guide';
 
 import { transform, lastRecord, speeds, i18n, lan } from '../unit/const';

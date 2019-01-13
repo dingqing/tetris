@@ -1,5 +1,5 @@
 {
-  "name": "tetris",
+  "name": "tetris-react",
   "version": "1.0.1",
   "description": "使用React、Redux实现俄罗斯方块小游戏。",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dingqing/tetris.git"
+    "url": "git+https://github.com/dingqing/tetris-react.git"
   },
   "keywords": [
     "Tetris",
@@ -19,9 +19,9 @@
   "author": "dingqing",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dingqing/tetris/issues"
+    "url": "https://github.com/dingqing/tetris-react/issues"
   },
-  "homepage": "https://github.com/dingqing/tetris#readme",
+  "homepage": "https://github.com/dingqing/tetris-react#readme",
   "devDependencies": {
     "autoprefixer": "^6.7.2",
     "babel-core": "^6.13.2",
