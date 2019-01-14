@@ -8,10 +8,10 @@
 - 准备知识
     - > 看别人的资料的时候：那么多，难以理解的样子。自己开始写的话也是一步步不知不觉出来了一堆。
     - 学习资源：[React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
-    - 前端工具（[学习笔记](https://github.com/dingqing/tetris-react/blob/master/learning/front-tools-learning.md)）
-    - ES6（[学习笔记](https://github.com/dingqing/tetris-react/blob/master/learning/es6-learning.md)）
-    - React（[学习笔记](https://github.com/dingqing/tetris-react/blob/master/learning/react-learning.md)）
-    - Redux（[学习笔记](https://github.com/dingqing/tetris-react/blob/master/learning/redux-learning.md)）
+    - 前端工具（[学习笔记](./learning/front-tools-learning.md)）
+    - ES6（[学习笔记](./learning/es6-learning.md)）
+    - React（[学习笔记](./learning/react-learning.md)）
+    - Redux（[学习笔记](./learning/redux-learning.md)）
 
 ### 2.系统介绍
 - 目录结构
